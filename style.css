@@ -1,0 +1,65 @@
+h1 {
+  font-family: "Jacquard 12", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 60px;
+  margin-top: auto;
+  color: olive;
+}
+
+h2 {
+    font-family: "Bytesized", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 20px;
+}
+
+.bytesized-regular {
+  font-family: "Bytesized", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.jacquard-12-regular {
+  font-family: "Jacquard 12", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+body {
+    margin: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 1.3rem;
+    color:rgb(5, 4, 5);
+    background-color: rgb(14, 48, 17);
+    text-align: center;
+}
+
+main {
+    padding: 30px;
+    border: 5px double rgba(194, 69, 15, 0.806);
+    background-color: rgb(255, 229, 136);
+    border-radius: 10px;
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 2rem;
+}
+
+
+strong {
+    font-weight: 900;
+}
+
+i {
+    font-style: italic;
+}
+
+a:link, a:visited, a:hover, a:active {
+    color:rgb(41, 137, 141);
+    font-weight: 700;
+}
